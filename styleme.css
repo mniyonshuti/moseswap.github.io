@@ -48,13 +48,13 @@ dt{
     color: yellow;
 }
 
-ol.movies dl {
+/* ol.movies dl {
     display: none;
 }
   
 ol.movies li:hover > dl {
     display: block;
-}
+} */
 
 ol.movies{
     display: flex;
