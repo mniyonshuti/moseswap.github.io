@@ -56,7 +56,7 @@ ol.movies li:hover > dl {
     display: block;
 }
 
-ol{
+ol.movies{
     display: flex;
     flex-direction: column-reverse;
 }
